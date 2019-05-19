@@ -10,6 +10,8 @@ public class Main {
 		
 		System.out.print("\nMy favourite mode of transportation is motor bike");
 		
+		System.out.print("\nThe best day of the week is Saturday");
+		
 	}
 
 }
