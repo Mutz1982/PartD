@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.print("\nMy favourite colour is Blue");
 		
+		System.out.print("\nMy favourite mode of transportation is motor bike");
+		
 	}
 
 }
